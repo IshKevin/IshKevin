@@ -49,7 +49,14 @@
           
 
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+ 
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
+
+
+  ### <h1> STATUS </h1>
+[![KEvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin)](hhttps://github.com/IshKevin/IshKevin.git)        
           
           
           
