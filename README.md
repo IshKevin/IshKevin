@@ -58,7 +58,7 @@
 
 
 ### <h1> STATUS </h1>
-[[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin)](https://github.com/IshKevin/github-readme-stats)       
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin&show_icons=true&theme=radical&count_private=true)       
           
           
           
