@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://twitter.com/_kevinishimwe">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width ="20px" height ="20px" />
           </a>
   
   <a href="https://www.instagram.com/kevinishimwe"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   
   <a href="https://www.facebook.com/kevin.ishimwe.142/" alt="facebook" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width ="20px" height ="20px" />
           </a>
 </p>
 
