@@ -55,11 +55,10 @@
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
          <br/> 
 
-#
 
 
 ### <h1> STATUS </h1>
-[[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin)](https://github.com/anuraghazra/github-readme-stats)       
+[[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin)](https://github.com/IshKevin/github-readme-stats)       
           
           
           
