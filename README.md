@@ -5,8 +5,8 @@
 
 <p>I design and build software solutions.My job involves writing and testing code, debugging problems, and collaborating with a team of developers to ensure that our software meets the needs of our users.
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-/amo/stars/:addonId
+<a herf="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </p>
 
 <!-- <p align="center">
