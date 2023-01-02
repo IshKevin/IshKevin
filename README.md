@@ -60,7 +60,7 @@
 ### <h1> STATUS </h1>
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin)](https://github.com/IshKevin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin&layout=compact&show_icons=true&theme=dracula)](https://github.com/IshKevin/github-readme-stats)
           
           
           
