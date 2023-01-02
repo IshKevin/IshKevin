@@ -5,7 +5,10 @@
 
 <p>I design and build software solutions.My job involves writing and testing code, debugging problems, and collaborating with a team of developers to ensure that our software meets the needs of our users.
 
-<a herf="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+ ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 
 </p>
 
