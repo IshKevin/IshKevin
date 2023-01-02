@@ -4,6 +4,7 @@
 
 
 <p>I design and build software solutions.My job involves writing and testing code, debugging problems, and collaborating with a team of developers to ensure that our software meets the needs of our users.
+</p>
 
 <p align="center">
   <a href="https://twitter.com/_kevinishimwe">
@@ -15,9 +16,9 @@
   <a href="https://www.facebook.com/kevin.ishimwe.142/" alt="facebook" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width ="20px" height ="20px" />
           </a>
-</p>
+          </p>
 
-</p>
+
 
 
 
