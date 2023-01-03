@@ -65,6 +65,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin&layout=compact&show_icons=true&theme=dracula)](https://github.com/IshKevin/github-readme-stats)
 
 </p>
+
+ <br/>
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
+	<br>
+	<br>
+	<br>
+</div>
+
           
           
           
