@@ -60,9 +60,9 @@
 ### <h1> :abacus: Status </h1>
 <p align="center">
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin&show_icons=true&theme=dracula&count_private=true)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin&show_icons=true&theme=dracula&count_private=truehide_border=true&bg_color=0D1117)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin&layout=compact&show_icons=true&theme=dracula)](https://github.com/IshKevin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin&layout=compact&show_icons=true&theme=draculahide_border=true&bg_color=0D1117)](https://github.com/IshKevin/github-readme-stats)
 
 </p>
 
