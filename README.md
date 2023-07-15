@@ -6,11 +6,13 @@
 <p>Greetings!
 
 I'm a software enthusiast with a knack for crafting imaginative solutions. My days are filled with coding adventures, unraveling pesky bugs, and jamming with my talented team to ensure our software dazzles our users. Join me on this exciting journey as we bring a touch of magic to the world of tech! Let's collaborate and create wonders together!
+</br>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
- ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/IshKevin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishimwe-kevin-81795421b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/IshKevin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com//ishi_kevin/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/kevin.ishimwe.142)
 
 </p>
 
