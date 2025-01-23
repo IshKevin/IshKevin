@@ -37,7 +37,7 @@ Feel free to explore my repositories, contribute to ongoing projects, or connect
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin&layout=compact&show_icons=true&hide_border=true&bg_color=0D1117)](https://github.com/IshKevin/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=IshKevin&stroke=%0D1117&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=IshKevin&stroke=%0D1117&theme=nightowl)
 
 </p>
 
@@ -46,7 +46,7 @@ Feel free to explore my repositories, contribute to ongoing projects, or connect
 	<br>
 	<br>
 	<br>
-	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="200">
 	<br>
 	<br>
 	<br>
