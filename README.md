@@ -5,7 +5,7 @@
 
 <p>Welcome!  
 
-I'm a dedicated software developer passionate about building innovative tools and solutions that enhance productivity and creativity. Among my projects is the **Mycroft VS Code extension** ([available here](https://marketplace.visualstudio.com/items?itemName=Mycroft.mycroft&ssr=false#overview)), designed to improve developer workflows and provide an exceptional coding experience.  
+I'm a dedicated software developer passionate about building innovative tools and solutions that enhance productivity and creativity.🧑‍💻 I Creator of : **Mycroft VS Code extension** [available here](https://marketplace.visualstudio.com/items?itemName=Mycroft.mycroft&ssr=false#overview), designed to improve developer workflows and provide an exceptional coding experience.  
 
 Feel free to explore my repositories, contribute to ongoing projects, or connect with me for collaboration.
 </br>
@@ -35,6 +35,8 @@ Feel free to explore my repositories, contribute to ongoing projects, or connect
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshKevin&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshKevin&layout=compact&show_icons=true&hide_border=true&bg_color=0D1117)](https://github.com/IshKevin/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=IshKevin&stroke=%23BB432C)
 
 </p>
 
