@@ -46,7 +46,7 @@ Feel free to explore my repositories, contribute to ongoing projects, or connect
 	<br>
 	<br>
 	<br>
-	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="200">
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
 	<br>
 	<br>
 	<br>
